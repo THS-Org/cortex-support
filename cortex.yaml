@@ -9,3 +9,7 @@ info:
     embeds:
       - type: datadog
         url: https://app.datadoghq.com/graph/embed?token=102fe9af16ff921a5af504c65edc71ea5211713fded23b5c98835ed51a8769ff&height=300&width=600&legend=true
+  x-cortex-git:
+    github:
+      repository: THS-Org/cortex-support
+    
