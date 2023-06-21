@@ -5,6 +5,9 @@ info:
   x-cortex-owners:
     - type: email
       email: taylor.schmidt@cortex.io
+    - type: group
+      name: crazy-team
+      provider: CORTEX
   x-cortex-dashboards:
     embeds:
       - type: datadog
