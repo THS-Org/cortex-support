@@ -1,13 +1,7 @@
 openapi: 3.0.1
 info:
-  title: My First Service!
+  title: My First Service
   x-cortex-tag: my-first-service
-  x-cortex-owners:
-    - type: email
-      email: taylor.schmidt@cortex.io
-    - type: group
-      name: crazy-team
-      provider: CORTEX
   x-cortex-dashboards:
     embeds:
       - type: datadog
