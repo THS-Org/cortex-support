@@ -12,4 +12,6 @@ info:
   x-cortex-git:
     github:
       repository: THS-Org/cortex-support
+  x-cortex-dependency:
+    - tag: testtest
     
