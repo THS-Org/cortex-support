@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: My First Service!
+  title: My First Service!!
   x-cortex-tag: my-first-service
   x-cortex-owners:
     - type: email
