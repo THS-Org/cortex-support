@@ -1,0 +1,6 @@
+openapi: 3.0.0
+info:
+  title: My Service 100
+  description: This is my cool service.
+  x-cortex-tag: my-service-100
+  x-cortex-type: service
