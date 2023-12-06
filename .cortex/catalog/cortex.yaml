@@ -4,3 +4,11 @@ info:
   description: This is my cool service.
   x-cortex-tag: my-service-100
   x-cortex-type: service
+  x-cortex-static-analysis:
+    mend:
+      applicationIds:
+        - mend_id_1
+        - mend_id_2
+      projectIds:
+        - project_id_1
+        - project_id_2
